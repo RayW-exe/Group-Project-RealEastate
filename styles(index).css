@@ -1,0 +1,50 @@
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 25px;
+    transition: 0.3s;
+    float:inline-start
+}
+.nav-links a:hover {
+    color: #00aaff;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #151414;
+    padding: 15px 30px;
+}
+
+.logo img {
+    width: 100px;
+    border-radius: 100%;
+}
+/* Hero Section */
+.hero {
+    height: 90vh;
+    background: url('https://i.pinimg.com/1200x/ed/07/f9/ed07f9d087fdadaa5d346f7284cb4672.jpg')
+      no-repeat center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.hero-content {
+    text-align: center;
+    color: white;
+    background: rgba(0,0,0,0.5);
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.hero-title {
+    font-size: 55px;
+}
+
+.hero-subtitle {
+    font-size: 20px;
+    margin-top: 10px;
+}
