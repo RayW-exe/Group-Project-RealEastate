@@ -48,3 +48,10 @@
     font-size: 20px;
     margin-top: 10px;
 }
+footer{
+    text-align: center;
+    background-color: aqua;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
