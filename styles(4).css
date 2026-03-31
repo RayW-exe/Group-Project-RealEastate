@@ -1,3 +1,27 @@
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 25px;
+    transition: 0.3s;
+    float:inline-start
+}
+.nav-links a:hover {
+    color: #00aaff;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #151414;
+    padding: 15px 30px;
+}
+
+.logo img {
+    width: 100px;
+    border-radius: 100%;
+}
+
 body{
       background-image: url('https://i.pinimg.com/1200x/ed/07/f9/ed07f9d087fdadaa5d346f7284cb4672.jpg');
       background-repeat: no-repeat;
