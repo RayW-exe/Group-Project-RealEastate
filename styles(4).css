@@ -29,7 +29,7 @@
 .hero {
     height: 100vh;
     background: url('https://i.pinimg.com/1200x/ed/07/f9/ed07f9d087fdadaa5d346f7284cb4672.jpg')
-    no-repeat center;
+    no-repeat center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
