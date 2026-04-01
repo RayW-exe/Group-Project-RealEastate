@@ -1,5 +1,5 @@
 # DREAM HOMES #
-## TABLE OF CONTENT##
+## TABLE OF CONTENT ##
 - Installation
 - Usage
 - Contribution
