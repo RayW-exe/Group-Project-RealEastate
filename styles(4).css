@@ -1,5 +1,5 @@
 .contact{
-    max-height: 900px;
+    max-height: 900px; ;
     max-width: 900px;
     background-color: aliceblue;
 }
@@ -40,12 +40,12 @@
     text-align: center;
     color: white;
     background: rgba(0,0,0,0.5);
-    padding: 20px;
+    padding: 30px;
     border-radius: 100px;
 }
 
 .hero-title {
-    font-size: 80px;
+    font-size: 100px;
 }
 
 .hero-subtitle {
