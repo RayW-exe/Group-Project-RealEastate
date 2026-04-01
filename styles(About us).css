@@ -35,7 +35,7 @@ body {
 .container {
     max-width: 900px;
     margin: 50px auto;
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(0,0,0,0.5);
     padding: 10px;
     border-radius: 10px;
     max-height: 1000px;
