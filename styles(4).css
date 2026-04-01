@@ -1,5 +1,5 @@
 .contact{
-    max: height 900px; ;
+    max-height: 900px;
     max-width: 900px;
     background-color: aliceblue;
 }
